@@ -3,10 +3,10 @@
     "mapa": "Dust2",
     "lado": "Terrorista",
     "zona": "A",
-    "nombre": "AntiAWP FlacoSmoke",
-    "dificultad": "Fácil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-bWhSI26gxI/hq.webm",
-    "instrucciones": "Trabas en la referencia, alinea justo sobre la caja, y solta con jumpthrow."
+    "nombre": "AntiAWPpeek largo A",
+    "dificultad": "Facil",
+    "video": "https://www.youtube.com/embed/qthlXzZqsM0?si=93zZkStzjh6AII52",
+    "instrucciones": "Alinea con el borde en la referencia, apunta justo en la esquina de abajo sobre la caja electrica, y solta la granada con jumpthrow."
   },
   {
     "mapa": "Dust2",
@@ -14,96 +14,69 @@
     "zona": "A",
     "nombre": "Smoke CT desde contenedor azul de fondo",
     "dificultad": "Muy Facil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-07WR4yNUt0/hq.webm",
-    "instrucciones": "Traba con el contenedor, apunta a la referencia y tira normal."
+    "video": "https://www.youtube.com/embed/C5LEmPybLhQ?si=lBWvGr2VYC5pKIWZ",
+    "instrucciones": "Traba con el contenedor del lado derecho, apunta a la referencia y tira normal."
   },
   {
     "mapa": "Dust2",
     "lado": "Terrorista",
     "zona": "Medio",
-    "nombre": "Smoke Puertas de Medio base TT",
+    "nombre": "Smoke Puertas de Medio base T",
     "dificultad": "Fácil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-bye3X5vLuZ/hq.webm",
-    "instrucciones": "Tuki traba taka jumpthrow y triple."
+    "video": "https://www.youtube.com/embed/zAXsdwjIUdk?si=Dvo5F9JsgA6T97-7",
+    "instrucciones": "Alinea en la raya del medio,  apunta justo sobre la mancha de referencia y tira con click derecho y jumpthrow."
   },
   {
     "mapa": "Dust2",
     "lado": "Terrorista",
     "zona": "Medio",
-    "nombre": "Smoke Box de Medio base TT",
+    "nombre": "Smoke Caja de Medio base T",
     "dificultad": "Fácil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-ubTiXKBc2E/hq.webm",
-    "instrucciones": "Traba con la reja y apunta justo al borde del techo, tira con jumpthrow."
+    "video": "https://www.youtube.com/embed/qT_hlDRTcxI?si=SuVybsAHQ6RpiE9Y",
+    "instrucciones": "Alineate con la pared, apunta en la esquina de abajo a la izquierda de la caja y tira con jumpthrow." 
   },
   {
     "mapa": "Dust2",
     "lado": "Terrorista",
     "zona": "Medio",
-    "nombre": "Smoke CT desde medio iglesia",
+    "nombre": "Smoke CT desde medio top mid",
     "dificultad": "Fácil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-EqBAJgjJJ6/hq.webm",
-    "instrucciones": "Tuki traba taka jumpthrow y triple."
+    "video": "https://www.youtube.com/embed/FE0x6uV8sdE?si=Lj-vWXCDn4ykoq9p",
+    "instrucciones": "Alineate con la pared, apunta al borde derecho superior de la caja y tira con jumpthrow."
   },{
     "mapa": "Dust2",
     "lado": "Terrorista",
     "zona": "Medio",
-    "nombre": "Smoke CT spawn desde XBOX",
+    "nombre": "Smoke base CT desde la Caja de Medio",
     "dificultad": "Fácil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-XMJVOfP5Ca/hq.webm",
-    "instrucciones": "Tuki traba apunta al medio de las manchas y tira left click."
+    "video": "https://www.youtube.com/embed/GKNSfsa-iKw?si=yLIhdtdrxeFw4p1j",
+    "instrucciones": "Traba contra la caja, apunta en la mancha de referencia y tira normal con click derecho."
   },
   {
     "mapa": "Dust2",
     "lado": "Terrorista",
-    "zona": "B",
-    "nombre": "Smoke Puertas B desde afuera de oscuro",
-    "dificultad": "Fácil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-5AlacnUab0/hq.webm",
-    "instrucciones": "Tuki traba taka jumpthrow."
-  },
-  {
-    "mapa": "Dust2",
-    "lado": "Terrorista",
-    "zona": "B",
-    "nombre": "Smoke ventana de B desde afuera de oscuro",
-    "dificultad": "Fácil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-MtLiZmb0gQ/hq.webm",
-    "instrucciones": "Tuki traba taka jumpthrow y triple."
-  },
-  {
-    "mapa": "Dust2",
-    "lado": "CT",
     "zona": "A",
-    "nombre": "Smoke puertas de fondo A",
+    "nombre": "Smoke CT desde Rampa A",
     "dificultad": "Fácil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-Hmj3j6hIlI/hq.webm",
-    "instrucciones": "Trabar en la esquina, apuntar en el techo de referencia y tirar con jumpthrow."
-  }, 
+    "video": "https://www.youtube.com/embed/eAEvCtKiIq8?si=Wj_ZVZ2pFJwGuX-v",
+    "instrucciones": "Traba contra la caja, apunta en la mancha de la referencia y tira normal, espera que explote y listo."
+  },
+  {
+    "mapa": "Dust2",
+    "lado": "Terrorista",
+    "zona": "A",
+    "nombre": "Smoke base CT desde puertas de fondo A",
+    "dificultad": "Fácil",
+    "video": "https://www.youtube.com/embed/pcqS_mNV44c?si=G4iqYwYJ1E8hP7Ps",
+    "instrucciones": "Subite al barril, alinea con el borde de la ventana y subi hasta la altura del cable.  No es una smoke rush ya que rebota varias veces, es necesario esperar a que explote."
+  },
   {
     "mapa": "Dust2",
     "lado": "CT",
     "zona": "Medio",
     "nombre": "Smoke suicida desde CT",
     "dificultad": "Fácil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-tgN5CrW541/hq.webm",
-    "instrucciones": "Alinea con la pared, apunta en la marca y jumpthrow ."
-  },
-  {
-    "mapa": "Dust2",
-    "lado": "CT",
-    "zona": "Medio",
-    "nombre": "Smoke medio rush oscuro",
-    "dificultad": "Fácil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-MrTSxptCeA/hq.webm",
-    "instrucciones": "Tuki traba apunta en la punta de la referencia y solta normal."
-  },
-  {
-    "mapa": "Dust2",
-    "lado": "CT",
-    "zona": "B",
-    "nombre": "Smoke salida de B",
-    "dificultad": "Fácil",
-    "video": "https://assets.csnades.gg/nades/dust2-smoke-6dZH5zTBd9/hq.webm",
-    "instrucciones": "Traba en la esquina, apunta en la puerta y tira con walk +jumpthrow."
-  }
+    "video": "https://www.youtube.com/embed/GbEtm2vPJcE?si=3cj2RRalWmSTLxZq",
+    "instrucciones": "Traba en la esquina, apunta al medio de la primera columna en la referencia y tira con jumpthrow."
+  }  
 ]
