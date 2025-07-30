@@ -1,31 +1,101 @@
-# YoSmokeo  🧨
+# YoSmokeo - Smokes CS2 Guia
 
-Una herramienta web simple y rápida para consultar smokes en Counter-Strike 2. Ideal para usar durante el warmup o entre rondas. 📺💨
+**Yo Smokeo** Es una herramienta web minimalista y optimizada para mobile que permite visualizar smokes por mapa, lado y zona en CS2. **Pensada** para jugadores que necesitan acceso rapido durante partidas Premier o competitivas. 
 
-![cover](./public/images/dust2.jpg)
+## 🔧 Tecnologías utilizadas
 
-## 🚀 Características
+- **React** (con Vite) – Estructura del proyecto SPA rápida y modular
+- **Tailwind CSS** – Estilado ágil, mobile-first y con modo oscuro por defecto
+- **JSON externo** – Fuente de datos con los smokes, filtrados dinámicamente
+- **Vercel** – Hosting gratuito y despliegue instantáneo
 
-- Elección rápida de mapa, lado (CT o T) y zona (A, Medio, B).
-- Visualización de smokes por zona con video e instrucciones.
-- Estilo oscuro minimalista.
-- Carga de smokes desde un archivo `.json`.
-- Optimizado para usar desde el navegador mobile o PC.
+## 📁 Estructura del proyecto
 
-## 🧱 Estructura
-- Public/
-─ data/smokes.json ← Base de datos de smokes
-─ images/ ← Imágenes de mapas y zonas
+```
+📦 yosmokeo
+├── public/
+│   └── logo.svg (opcional)
+├── src/
+│   ├── components/
+│   │   ├── MapaSelector.jsx
+│   │   ├── LadoSelector.jsx
+│   │   ├── ZonaSelector.jsx
+│   │   ├── SmokeList.jsx
+│   │   └── SmokeDetalle.jsx
+│   ├── data/
+│   │   └── smokes.json
+│   └── App.jsx
+├── package.json
+└── tailwind.config.js
+```
+## ⚙️ Instalación local
 
-src/
-├── components/ ← Componentes reutilizables
-├── App.jsx ← App principal
-├── index.css ← Tailwind
-
-## 📦 Instalación local
-
+1. Cloná el repositorio:
 ```bash
-git clone 
+git clone https://github.com/tuusuario/yosmokeo.git
 cd yosmokeo
+```
+
+2. Instalá dependencias:
+```bash
 npm install
+```
+
+3. Iniciá el servidor de desarrollo:
+```bash
 npm run dev
+```
+
+4. Abrí en tu navegador:
+```
+http://localhost:5173
+```
+
+---
+
+## 📦 Estructura del archivo `smokes.json`
+
+```json
+[
+  {
+    "mapa": "Dust2",
+    "lado": "CT",
+    "zona": "Medio",
+    "nombre": "Puerta Mid",
+    "video": "https://www.youtube.com/embed/XXXXXXX"
+  }
+]
+```
+
+Podés crear y subir tus propios videos de smokes a YouTube y luego agregar el link embed en el JSON.
+
+---
+
+## 💡 Características destacadas
+
+- ✅ Navegación rápida y optimizada para partidas
+- 🎯 Filtrado por mapa > lado > zona
+- 🎥 Visualización de smokes en video
+- 🌗 Estilo oscuro minimalista
+- 📱 Diseño responsive enfocado en mobile
+- 🔁 Botón flotante para volver entre secciones
+- 🔐 Preparado para ser open source
+
+---
+
+## 🧪 En producción
+
+App desplegada: [https://yosmokeo.vercel.app](https://yosmokeo.vercel.app)
+
+---
+
+## 🤝 Aporte y comunidad
+
+Pull requests y sugerencias son bienvenidas. Si querés sumar smokes o colaborar con el diseño, contactame 
+
+---
+
+## 🔖 Licencia
+
+MIT. Usala, compartila y mejorala libremente.
+
