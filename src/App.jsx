@@ -38,11 +38,11 @@ export default function App() {
       <div className="flex justify-between items-center p-4">
         <h1 className="text-xl font-bold">Yo Smokeo💨</h1>
         {(mapa || lado || zona || smokeSeleccionado) && (
-          <button onClick={resetTodo} className="text-sm underline">Inicio
+          <button onClick={resetTodo} className="text-sm">Inicio
           </button>
         )}
       </div>
-      <main className="flex-1 w-full px-4 pb-24">
+      <main className="flex-1 w-full px-4 pb-24 max-w-md mx-auto">
       {/* Flujo de navegación por estado */}
       {smokeSeleccionado ? (
         <SmokeDetalle smoke={smokeSeleccionado} onBack={() => setSmokeSeleccionado(null)} />
@@ -74,12 +74,12 @@ export default function App() {
     }}
     className="fixed bottom-4 left-4 bg-zinc-700 text-white px-4 py-2 rounded-full shadow z-50"
   >
-    ⬅ Volver
+    Volver
   </button>
 )}
-      
+     
        <footer className="text-center text-sm text-gray-500 py-4">
-      Desarrollado por <span className="text-white font-semibold">goodtripdev</span>
+      Desarrollado por <span className="text-white font-semibold">GoodtripDev</span>
     </footer>
     </div>
   )
