@@ -14,7 +14,7 @@ export default function App() {
 
   // Cargar smokes desde JSON
   useEffect(() => {
-    fetch('/src/data/smokes.json')
+    fetch('/public/data/smokes.json')
       .then((res) => res.json())
       .then((data) => setSmokes(data))
       .catch((err) => console.error('Error cargando smokes.json:', err))
