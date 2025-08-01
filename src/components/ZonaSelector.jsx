@@ -16,7 +16,7 @@ const zonas = [
             onClick={() => onSelect(z)}
             className="bg-zinc-800 rounded-xl overflow-hidden shadow-md hover:scale-105 transition"
           >
-            <img src={z.imagen} alt={z.nombre} className="w-full h-40 object-cover" />
+            <img src={z.imagen} alt={z.nombre} loading="lazy" className="w-full h-40 object-cover" />
             <span>{z.nombre}</span>
           </button>
         ))}
