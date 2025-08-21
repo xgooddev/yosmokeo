@@ -78,5 +78,32 @@
     "dificultad": "Fácil",
     "video": "https://www.youtube.com/embed/GbEtm2vPJcE?si=3cj2RRalWmSTLxZq",
     "instrucciones": "Traba en la esquina, apunta al medio de la primera columna en la referencia y tira con jumpthrow."
-  }  
+  },
+   {
+    "mapa": "Dust2",
+    "lado": "Terorrista",
+    "zona": "A",
+    "nombre": "Smoke para pasar baranda A",
+    "dificultad": "Fácil",
+    "video": "https://www.youtube.com/embed/d0Z-GiQ23oc?si=rP-jmx0yrJUpIKj",
+    "instrucciones": "Traba en el medio de la reja, apunta arriba de la ventana y tira normal."
+  },
+  {
+    "mapa": "Dust2",
+    "lado": "Terrorista",
+    "zona": "B",
+    "nombre": "Smoke buraco site B",
+    "dificultad": "Fácil",
+    "video": "https://www.youtube.com/embed/74Kc32MhClg?si=1sxshmUUZijeZ3pc",
+    "instrucciones": "ALinea en la esquina, apunta el punto de abajo en la referencia y tira con jumpthrow."
+  },
+  {
+    "mapa": "Dust2",
+    "lado": "Terrorista",
+    "zona": "B",
+    "nombre": "Smoke puerta B desde base T",
+    "dificultad": "Fácil",
+    "video": "https://www.youtube.com/embed/55BFKBeJkPo?si=n3DZMZAgvKOACu1p",
+    "instrucciones": "Alinea en la esquina, apunta en la marca de humedad y tira con jumpthrow."
+  }
 ]
