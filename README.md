@@ -85,17 +85,15 @@ Podés crear y subir tus propios videos de smokes a YouTube y luego agregar el l
 
 ## 🧪 En producción
 
-App desplegada: [https://yosmokeo.vercel.app](https://yosmokeo.vercel.app)
+App desplegada: [https://yosmokeo.pro](https://yosmokeo.vercel.app)
 
----
+
 
 ## 🤝 Aporte y comunidad
 
 Pull requests y sugerencias son bienvenidas. Si querés sumar smokes o colaborar con el diseño, contactame 
 
----
 
-## 🔖 Licencia
 
-MIT. Usala, compartila y mejorala libremente.
+
 
